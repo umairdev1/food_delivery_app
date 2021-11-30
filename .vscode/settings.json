@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "dart.buildRunnerAdditionalArgs": [
+        "--no-sound-null-safety"
+    ],
+    "dart.flutterRunAdditionalArgs": [
+        "--no-sound-null-safety"
+    ]
+}
